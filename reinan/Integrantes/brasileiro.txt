@@ -1,4 +1,4 @@
-lucas alves brasileiro
-14114290006
-curioso
-_____-
+nome:lucas alves brasileiro
+matricula:14114290006
+ponto-forte: curioso e vontade de aprender
+ponto-fraco: falta de tempo, serviço e falculdade.
