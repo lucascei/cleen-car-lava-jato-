@@ -664,4 +664,6 @@ public class FrmClientes extends javax.swing.JFrame {
     private javax.swing.JButton jButtonAnterior;
     private javax.swing.JButton jButtonAtualizar;
     private javax.swing.JButton jButtonDeletar;
-    private javax.swing.JButton }
+    private javax.swing.JButton jButtonInicio;
+    private 
+}
