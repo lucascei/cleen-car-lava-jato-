@@ -670,5 +670,8 @@ public class FrmClientes extends javax.swing.JFrame {
     private javax.swing.JButton jButtonUltimo;
     private javax.swing.JComboBox jComboCategoria;
     private javax.swing.JComboBox jComboTipo;
+    private javax.swing.JLabel jLabel1;
+    private javax.swing.JLabel jLabel2;
+    private javax.swing.JLabel jLabel3;
     private javax.swing.JLabel 
 }
