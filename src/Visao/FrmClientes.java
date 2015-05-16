@@ -674,5 +674,6 @@ public class FrmClientes extends javax.swing.JFrame {
     private javax.swing.JLabel jLabel2;
     private javax.swing.JLabel jLabel3;
     private javax.swing.JLabel jLabel4;
-    private javax.swing.JLabel 
+    private javax.swing.JLabel jLabel5;
+    private javax.swing.JPanel 
 }
