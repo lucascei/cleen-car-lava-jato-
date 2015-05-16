@@ -663,6 +663,5 @@ public class FrmClientes extends javax.swing.JFrame {
     private javax.swing.JButton jButtonAdicionar;
     private javax.swing.JButton jButtonAnterior;
     private javax.swing.JButton jButtonAtualizar;
-    
-    // End of variables declaration//GEN-END:variables
+    private javax.swing.JButton riables
 }
