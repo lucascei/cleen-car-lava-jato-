@@ -678,5 +678,6 @@ public class FrmClientes extends javax.swing.JFrame {
     private javax.swing.JPanel jPanel1;
     private javax.swing.JScrollPane jScrollPane1;
     private javax.swing.JTable jTableClientes;
+    private javax.swing.JTextField jTextId;
     private javax.swing.JTextField 
 }
