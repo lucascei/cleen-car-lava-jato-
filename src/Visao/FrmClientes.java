@@ -680,5 +680,6 @@ public class FrmClientes extends javax.swing.JFrame {
     private javax.swing.JTable jTableClientes;
     private javax.swing.JTextField jTextId;
     private javax.swing.JTextField jTextNome;
-    private javax.swing.JTextField 
+    private javax.swing.JTextField jTextPlaca;
+    // End of variables declaration//GEN-END:variables
 }
